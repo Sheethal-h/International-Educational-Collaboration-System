@@ -5,21 +5,3 @@ Below are some screen images of the system :
 Landing Page
 ![IMAGE](screen_images/landingpage.png)
 
-Sign Up Page
-![IMAGE](screen_images/signup.png)
-
-Log in Page
-![IMAGE](screen_images/signin.png)
-
-Recover Account Page
-![IMAGE](screen_images/forgotpassword.png)
-
-Admin Page
-![IMAGE](screen_images/admin.png)
-
-Teacher Page
-![IMAGE](screen_images/teacher.png)
-
-Student Page
-![IMAGE](screen_images/student.png)
-
